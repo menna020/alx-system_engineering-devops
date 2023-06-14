@@ -1,0 +1,3 @@
+#!/bin/bash
+tr 'A-2a-z' 'N-2A-MN-za-m'
+
